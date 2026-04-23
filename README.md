@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**lmruban/lmruban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут [Твоё имя]
 
-Here are some ideas to get you started:
+## 💻 Обо мне
+- 👩‍💻 Я изучала C#
+- 🧠 Интересуюсь разработкой и продолжаю прокачивать навыки
+- 🚀 Хочу развиваться в IT и создавать полезные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Навыки
+- C#
+- Основы ООП
+- Работа с .NET
+
+## 📚 Сейчас изучаю
+- Новые технологии в разработке
+- Практикуюсь в написании проектов
+
+## 🎯 Цели
+- Улучшить навыки программирования
+- Создать портфолио проектов
+- Найти интересную работу в IT
+
+## 📫 Контакты
+- Telegram: @lydmilsss
